@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+
+	<video>
+	  <title>Enterprising DJ</title>
+	  <subtitle>ComfyCorner</subtitle>
+	  <date>11/11/11</date>
+	  <thumbnail>https://bluecubemedia.files.wordpress.com/2017/05/sbu.jpg?w=1024</thumbnail>
+	  <gif>https://media.giphy.com/media/NRGOa8t39J0Ry/giphy.gif</gif>
+	  <link>https://youtube.com</link>
+	</video>
+
+	<video>
+	  <title>Heartsick Indy Heartthrob</title>
+	  <subtitle>ComfyCorner</subtitle>
+	  <date>11/19/11</date>
+	  <thumbnail>https://d1rzxhvrtciqq1.cloudfront.net/images/listing_images/images/127924/big/3cdc6b-9bf9d9-_mg_0726.jpg?1505433072</thumbnail>
+	  <gif>https://media.giphy.com/media/xT9IgvEOwRzUcZDRiU/giphy.gif</gif>
+	  <link>https://youtube.com</link>
+	</video>
+
+	<video>
+	  <title>Acoustic Rapper</title>
+	  <subtitle>ComfyCorner</subtitle>
+	  <date>11/24/11</date>
+	  <thumbnail>http://www.myrareguitars.com/guitar-pictures/waha.jpg</thumbnail>
+	  <gif>https://media.giphy.com/media/qVVVfmHDMBZug/giphy.gif</gif>
+	  <link>https://youtube.com</link>
+	</video>
+
+	<video>
+	  <title>Funky alligator</title>
+	  <subtitle>ComfyCorner</subtitle>
+	  <date>11/31/11</date>
+	  <thumbnail>http://siteblog.tuc.gr/fablab/wp-content/uploads/sites/66/2016/12/Origami-Chaise-Longue.jpg</thumbnail>
+	  <gif>https://media.giphy.com/media/NRGOa8t39J0Ry/giphy.gif</gif>
+	  <link>https://youtube.com</link>
+	</video>
+
+	<video>
+	  <title>Patriotic Americant</title>
+	  <subtitle>ComfyCorner</subtitle>
+	  <date>11/45/11</date>
+	  <thumbnail>https://bluecubemedia.files.wordpress.com/2017/05/sbu.jpg?w=1024</thumbnail>
+	  <gif>https://media.giphy.com/media/NRGOa8t39J0Ry/giphy.gif</gif>
+	  <link>https://youtube.com</link>
+	</video>
+	
+</videos>
