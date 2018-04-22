@@ -1,0 +1,87 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>RectangularHome</title>
+  <meta name="description" content="Rectangular Home">
+  <meta name="author" content="Jonathan Nguyen">
+
+  <link rel="stylesheet" href="styles.css">
+	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+	<div class="row">
+		<div class="col">
+			<div class="container">
+				<div class="banner">
+					<h1>ComfyStone Productions</h1>
+				</div>
+				<div class="ratioset">
+					<img src="white.png" width="100%">
+				</div>
+			</div>
+			<div class="container" onmouseenter="play1()" onmouseleave="pause1()">
+				<video loop id="video1">
+			    <source src="videos/ads.mp4" type="video/mp4">
+			    Your browser does not support HTML5 video.
+			  </video>
+			  <div class="sectiontext">
+			  	<h1>Ads</h1>
+			  </div>
+			  <a href="https://youtube.com"><span class="divlink"></span></a>
+			</div>
+		</div>
+		<div class="col">
+			<div class="container" onmouseenter="play2()" onmouseleave="pause2()">
+				<video loop id="video2">
+			    <source src="videos/music.mp4" type="video/mp4">
+			    Your browser does not support HTML5 video.
+			  </video>
+			  <div class="sectiontext">
+			  	<h1>Music</h1>
+			  </div>
+			  <a href="https://youtube.com"><span class="divlink"></span></a>
+			</div>
+			<div class="container" onmouseenter="play3()" onmouseleave="pause3()">
+				<video loop id="video3">
+			    <source src="videos/films.mp4" type="video/mp4">
+			    Your browser does not support HTML5 video.
+			  </video>
+			  <div class="sectiontext">
+			  	<h1>Films</h1>
+			  </div>
+			  <a href="https://youtube.com"><span class="divlink"></span></a>
+			</div>
+		</div>
+		</div>
+	</div>
+
+	<script>
+		function play1() {
+			document.getElementById("video1").play()
+		}
+		function play2() {
+			document.getElementById("video2").play()
+		}
+		function play3() {
+			document.getElementById("video3").play()
+		}
+		function pause1() {
+			document.getElementById("video1").pause()
+		}
+		function pause2() {
+			document.getElementById("video2").pause()
+		}
+		function pause3() {
+			document.getElementById("video3").pause()
+		}
+	</script>
+</body>
+</html>
